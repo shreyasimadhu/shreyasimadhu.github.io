@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyasi Madhu Shampa</h1>
 <h3 align="center">💻 Full Stack Developer | WordPress Expert | Problem Solver</h3>
  
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Software+Engineer;WordPress+Expert;Always+Learning+New+Things;Love+to+Build+Cool+Projects" />
 </p>
 
