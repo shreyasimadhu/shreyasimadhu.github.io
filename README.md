@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">                                     
+<p align="center">                                                                
   <img src="engr.gif" alt="Programming" width="400"/>               
 </p>
 <h3 align="center">A passionate Software Engr. from Bangladesh</h3>  
